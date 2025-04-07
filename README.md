@@ -9,7 +9,7 @@ I'm a frontend developer passionate about building beautiful and functional web 
 
 🔧 Skills
 
-Frontend: JavaScript, TypeScript, React
+Frontend: JavaScript, React
 
 Styling: CSS, SCSS
 
@@ -17,14 +17,8 @@ Tools: Webpack, Prettier, Git
 
 Additional: Django
 
-📌 Лучшие проекты
-
-🔹 Project 1 - Website Mi Electronics (HTML, CSS, Javascrit)
-
 📫 How to Reach Me?
-
-TikTok: @it_noora
 
 Email: gurban.code@gmail.com
 
-💡 Always open to new opportunities and collaborations! 😃
+💡 Always open to new opportunities! 😃
